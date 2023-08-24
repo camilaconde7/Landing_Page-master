@@ -3,37 +3,21 @@ Proyecto en el cual se desarrolla el landing page de EstuReview
 
 Autores:
 
-1.Gonzales Cáceres, Renzo Sebastian
+1. 
 
-2.Huaroto Cadenas, Elizabeth Araceli
+2. Ballona Blas Naggit German
 
-3.Navarro Chacón, Juan José
+3. 
 
-4.Ramírez Palma, Tiffany Kassandra
+4. 
 
-5.Rodríguez Mori, Frank
+5. 
 
 
 Segmentos objetivos:
 
--Padres de familia
-
--Estudiantes universitarios
+ 
 
 
-Principales caracteristicas de EstuReview
-
--Plataforma en la que permite ver información y reseñas de colegios para el segmento padre de familia
-
--Permite reseñar y puntuar colegios para el segmento padres de familia
-
--Plataforma en la que permite ver información y reseñas de métodos de enseñanza de profesores universitarios para el segmento universitario
-
--Permite reseñar y puntuar métodos de enseñanza de profesores universitarios para el segmento universitario
-
--Comunicación directa entre padres de familia 
-
--comunicación directa entre universitarios
-
--planes anuales o semestrales de membresía
-
+Principales caracteristicas de  
+ 
