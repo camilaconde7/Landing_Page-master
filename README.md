@@ -1,5 +1,5 @@
 # Landing_Page
-Proyecto en el cual se desarrolla el landing page de EstuReview
+Proyecto en el cual se desarrolla el landing page de EmprendeChef
 
 Autores:
 
@@ -7,11 +7,11 @@ Autores:
 
 2. Ballona Blas Naggit German
 
-3. 
+3. Jose
 
-4. 
+4. Camila
 
-5. 
+5. Frezzia
 
 
 Segmentos objetivos:
