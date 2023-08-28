@@ -184,6 +184,7 @@ html {
     padding: 0;
   }
 }
+ 
 /* FINAL DE Services*/
 
 
@@ -501,10 +502,12 @@ body > footer > ul {
 
 
 .card {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 80px; 
+  margin-left: 20px;
+  float: left;
+  margin-bottom: 50px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease-in-out;
-  background-color: #4A90E2;
-  color: #F1F9FF;
-}
+  background-color: #c7d9f0;
+  color: #000000; 
+}  
